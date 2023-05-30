@@ -15,9 +15,7 @@ const getWeather = (city) => {
 			// cloud_pct.innerHTML = response.cloud_pct
 			temp.innerHTML = response.temp
 			temp2.innerHTML = response.temp
-			// temp3.innerHTML = response.temp
-			// temp4.innerHTML = response.temp
-			// temp5.innerHTML = response.temp
+			 
 
 
 			feels_like.innerHTML = response.feels_like
@@ -26,7 +24,7 @@ const getWeather = (city) => {
 			// feels_like5.innerHTML = response.feels_like
 
 
-
+            
 			humidity2.innerHTML = response.humidity
 			humidity.innerHTML = response.humidity
 			// humidity3.innerHTML = response.humidity
