@@ -1,4 +1,4 @@
-Sure! Here's an example of a README file for a weather app using RapidAPI, Bootstrap, and JavaScript:
+ 
 
 # WeatherApp
 
