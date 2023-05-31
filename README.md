@@ -7,10 +7,8 @@ WeatherApp is a weather application that provides real-time weather information 
 ## Features
 
 - Current Weather: Get the current weather conditions for any location.
-- Location-based Forecast: Fetch a five-day weather forecast based on the user's location.
-- Favorites: Save frequently accessed locations as favorites for quick access.
-- Weather Icons: Display visually appealing weather icons based on the weather conditions.
-- Temperature Conversion: Convert temperature between Celsius and Fahrenheit.
+- Location-based Forecast: Fetch a   weather forecast based on the user's location.
+ 
 
 ## Installation
 
