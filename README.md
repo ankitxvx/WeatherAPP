@@ -35,6 +35,9 @@ WeatherApp utilizes the RapidAPI weather data API to fetch weather information. 
 1. Visit the RapidAPI website (https://rapidapi.com) and create an account if you don't have one.
 
 2. Obtain your API key for the weather data API.
+<img width="960" alt="image" src="https://github.com/ankitxvx/WeatherAPP/assets/90975195/58d243e0-0346-4c0f-8da1-88e18aea669b">
+<img width="960" alt="image" src="https://github.com/ankitxvx/WeatherAPP/assets/90975195/0fe8273a-50f4-4e67-aad1-18940f6a961d">
+
 
  
 
